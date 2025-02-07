@@ -35,4 +35,14 @@
 - Fork 本仓库并提交 Pull Requests。
 - 加入开发者社区，讨论项目的未来发展方向。
 
+## 功能
+- 分布式计算资源调度
+- 自适应智能设备协议
+- 基于区块链的去中心化控制
+
+## 如何运行
+1. 克隆项目：
+   ```bash
+   git clone https://github.com/zreok-world/Natural-Computing-Network-China.RZS.git
+
 
